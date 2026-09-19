@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignore datasets and local results
+data/
+results/
+.DS_Store
